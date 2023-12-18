@@ -29,9 +29,6 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 - cv/: Computer Vision projects and case studies.
 - graphics/: Materials related to the Computer Graphics course.
   
-# Contributing
-We encourage contributions from students and the academic community. If you have a project, research paper, or resources related to the courses, feel free to contribute.
-
 # Graduate Teaching Assistant
 - Md Shajibul Islam, [Github Profile](https://github.com/ShajibEwuCse19).
 
