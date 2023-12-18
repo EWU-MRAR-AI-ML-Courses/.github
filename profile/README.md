@@ -32,13 +32,6 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 # Graduate Teaching Assistant
 - Md Shajibul Islam, [Github Profile](https://github.com/ShajibEwuCse19).
 
-# To contribute:
-
-- Fork the repository.
-- Create a new branch for your contribution.
-- Add your project/resources.
-- Submit a pull request with a detailed description of your addition.
-
 # License
 
 This repository is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
