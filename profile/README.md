@@ -14,6 +14,7 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 - Institution: East West University, Bangladesh
 
 # Courses Covered:
+- Statistics For Data Science - CSE 303
 - Artificial Intelligence (AI) - CSE 366
 - Machine Learning (ML) - CSE 475
 - Deep Learning (DL) - CSE 475
