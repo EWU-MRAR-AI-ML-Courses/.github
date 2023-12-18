@@ -6,7 +6,8 @@ Welcome to the repository for the AI, Machine Learning, Deep Learning, and Compu
 This repository serves as a central hub for students and enthusiasts of AI, Machine Learning, Deep Learning, and Computer Vision. Here, you'll find a wide range of projects and resources related to the courses taught at East West University.
 
 # Course Overview
-- Instructor: Dr. Mohammad Rifat Ahmmad Rashid
+- Instructor: Dr. Mohammad Rifat Ahmmad Rashid,
+  Assistant Professor
 - Institution: East West University, Bangladesh
 
 # Courses Covered:
