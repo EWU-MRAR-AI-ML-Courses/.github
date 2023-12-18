@@ -8,7 +8,9 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 # Course Overview
 - Instructor: Dr. Mohammad Rifat Ahmmad Rashid,
   Assistant Professor
+- [Faculty Profile](https://fse.ewubd.edu/computer-science-engineering/faculty-view/rifat.rashid)
 - [Personal Website](https://rifat963.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=fXu1UdgAAAAJ&hl=en)
 - Institution: East West University, Bangladesh
 
 # Courses Covered:
