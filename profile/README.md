@@ -33,7 +33,8 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 We encourage contributions from students and the academic community. If you have a project, research paper, or resources related to the courses, feel free to contribute.
 
 # Graduate Teaching Assistant
-- Md Shajibul Islam, [Github Profile](https://https://github.com/ShajibEwuCse19).
+- Md Shajibul Islam
+- [Github Profile](https://github.com/ShajibEwuCse19).
 
 # To contribute:
 
