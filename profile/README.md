@@ -11,7 +11,7 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 - [Faculty Profile](https://fse.ewubd.edu/computer-science-engineering/faculty-view/rifat.rashid)
 - [Personal Website](https://rifat963.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?user=fXu1UdgAAAAJ&hl=en)
-- Institution: East West University, Bangladesh
+
 
 # Courses Covered:
 - Statistics For Data Science - CSE 303
