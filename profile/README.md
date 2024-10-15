@@ -1,13 +1,13 @@
 # AI, Machine Learning, and Computer Vision Course Repository
 
-Welcome to the repository for the AI, Machine Learning, Deep Learning, and Computer Vision course, taught by Dr. Mohammad Rifat Ahmmad Rashid (MRAR), Assistant Professor at East West University, Bangladesh.
+Welcome to the repository for the AI, Machine Learning, Deep Learning, and Computer Vision course, taught by Dr. Mohammad Rifat Ahmmad Rashid (MRAR), Associate Professor at East West University, Bangladesh.
 
 # About This Repository
 This repository serves as a central hub for students and enthusiasts of AI, Machine Learning, Deep Learning, and Computer Vision. Here, you'll find a wide range of projects and resources related to the courses taught at East West University.
 
 # Course Overview
 - Instructor: Dr. Mohammad Rifat Ahmmad Rashid,
-  Assistant Professor
+  Associate Professor
 - [Faculty Profile](https://fse.ewubd.edu/computer-science-engineering/faculty-view/rifat.rashid)
 - [Personal Website](https://rifat963.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?user=fXu1UdgAAAAJ&hl=en)
@@ -18,8 +18,8 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 - Artificial Intelligence (AI) - CSE 366
 - Machine Learning (ML) - CSE 475
 - Deep Learning (DL) - CSE 475
-- Computer Vision (CV) - CSE 475
-- Natural Language Processing (NLP) - CSE 366 & CSE 475
+- Computer Vision (CV) - CSE 366 & CSE 47
+- Natural Language Processing (NLP) - CSE 475
 - Computer Graphics - CSE 420
  
 # Repository Structure
@@ -30,7 +30,8 @@ This repository serves as a central hub for students and enthusiasts of AI, Mach
 - graphics/: Materials related to the Computer Graphics course.
   
 # Graduate Teaching Assistant
-- Md Shajibul Islam, [Github Profile](https://github.com/ShajibEwuCse19).
+- 
+
 
 # License
 
